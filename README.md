@@ -1,2 +1,2 @@
 # game-life
-mini project for school
+my mini project for school
